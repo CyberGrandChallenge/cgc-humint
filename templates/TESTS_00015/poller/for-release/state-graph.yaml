@@ -1,0 +1,10 @@
+---
+nodes:
+- name: start
+- name: genpalindrome
+- name: end
+
+edges:
+
+- start: genpalindrome
+- genpalindrome: end

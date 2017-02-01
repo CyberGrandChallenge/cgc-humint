@@ -1,0 +1,10 @@
+---
+nodes:
+- name: start
+- name: dowork
+- name: end
+
+edges:
+
+- start: dowork
+- dowork: end

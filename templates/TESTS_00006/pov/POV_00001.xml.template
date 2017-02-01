@@ -1,0 +1,72 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE pov SYSTEM "/usr/share/cgc-docs/replay.dtd">
+<pov>
+    <cbid>service</cbid>
+    <replay>
+<!--
+HELLO
+OK A21D7B51
+AUTH A21D7B51
+OK
+SET mode encode
+OK
+SET data aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+OK
+CALL /root64
+-->
+        <write>
+            <data><REPLACEME>TOKEN_HELLO</REPLACEME>\n</data>
+        </write>
+
+        <read echo="yes">
+            <delim>\n</delim>
+            <assign>
+                <var>token</var>
+                <pcre group="1">OK ([0-9A-F]*)\n</pcre>
+            </assign>
+        </read>
+
+        <write>
+            <data><REPLACEME>TOKEN_AUTH</REPLACEME> </data>
+            <var>token</var>
+            <data>\n</data>
+        </write>
+
+        <read echo="yes">
+            <delim>\n</delim>
+            <match>
+                <data>OK\n</data>
+            </match>
+        </read>
+
+        <write>
+            <data><REPLACEME>TOKEN_SET</REPLACEME> mode encode\n</data>
+        </write>
+
+        <read echo="yes">
+            <delim>\n</delim>
+            <match>
+                <data>OK\n</data>
+            </match>
+        </read>
+
+        <write>
+            <data><REPLACEME>TOKEN_SET</REPLACEME> data aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\n</data>
+        </write>
+
+        <read echo="yes">
+            <delim>\n</delim>
+            <match>
+                <data>OK\n</data>
+            </match>
+        </read>
+
+        <write>
+            <data><REPLACEME>TOKEN_CALL</REPLACEME> /root64\n</data>
+        </write>
+
+        <read echo="yes">
+            <delim>\n</delim>
+        </read>
+    </replay>
+</pov>

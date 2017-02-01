@@ -1,0 +1,15 @@
+Source: cgc-humint
+Section: devel
+Priority: extra
+Maintainer: bmc <bmc@lungetech.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.3
+Homepage: http://www.darpa.mil/cybergrandchallenge/
+
+Package: cgc-humint
+Architecture: all
+Depends: ${python:Depends}, ${misc:Depends}
+Description: Human CGC Detector
+ Provide a simple framework for building sample challenges for CGC related 
+ to human identification.
+ .

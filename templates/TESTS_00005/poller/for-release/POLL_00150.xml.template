@@ -1,0 +1,386 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE pov SYSTEM "/usr/share/cgc-docs/replay.dtd">
+<pov>
+<cbid>EAGLE_00004</cbid>
+<replay>
+   <write>
+      <data>aPenFullOfSheep:)\n</data>
+      <data><REPLACEME>MOV_MNEMONIC</REPLACEME> r2,-1676628282\n<REPLACEME>PUSH_MNEMONIC</REPLACEME> r2\n</data>
+      <data><REPLACEME>POP_MNEMONIC</REPLACEME> r3\n<REPLACEME>OUT_MNEMONIC</REPLACEME> r3\n<REPLACEME>MOV_MNEMONIC</REPLACEME> m0,r3\n</data>
+      <data><REPLACEME>MOV_MNEMONIC</REPLACEME> r2,1224457323\n<REPLACEME>PUSH_MNEMONIC</REPLACEME> r2\n</data>
+      <data><REPLACEME>POP_MNEMONIC</REPLACEME> m1\n<REPLACEME>OUT_MNEMONIC</REPLACEME> m1\n</data>
+      <data><REPLACEME>MOV_MNEMONIC</REPLACEME> r2,-331081946\n<REPLACEME>PUSH_MNEMONIC</REPLACEME> r2\n</data>
+      <data><REPLACEME>POP_MNEMONIC</REPLACEME> m2\n<REPLACEME>OUT_MNEMONIC</REPLACEME> m2\n</data>
+      <data><REPLACEME>MOV_MNEMONIC</REPLACEME> r0,-2098062645\n<REPLACEME>PUSH_MNEMONIC</REPLACEME> r0\n</data>
+      <data><REPLACEME>MOV_MNEMONIC</REPLACEME> r3,-1650057150\n<REPLACEME>PUSH_MNEMONIC</REPLACEME> r3\n</data>
+      <data><REPLACEME>PUSH_MNEMONIC</REPLACEME> -2018559730\n</data>
+      <data><REPLACEME>POP_MNEMONIC</REPLACEME> m3\n<REPLACEME>OUT_MNEMONIC</REPLACEME> m3\n</data>
+      <data><REPLACEME>POP_MNEMONIC</REPLACEME> r2\n<REPLACEME>OUT_MNEMONIC</REPLACEME> r2\n<REPLACEME>MOV_MNEMONIC</REPLACEME> m4,r2\n</data>
+      <data><REPLACEME>POP_MNEMONIC</REPLACEME> m5\n<REPLACEME>OUT_MNEMONIC</REPLACEME> m5\n</data>
+      <data><REPLACEME>PUSH_MNEMONIC</REPLACEME> -1047988892\n</data>
+      <data><REPLACEME>MOV_MNEMONIC</REPLACEME> r3,2116486850\n<REPLACEME>PUSH_MNEMONIC</REPLACEME> r3\n</data>
+      <data><REPLACEME>MOV_MNEMONIC</REPLACEME> r2,-910012773\n<REPLACEME>PUSH_MNEMONIC</REPLACEME> r2\n</data>
+      <data><REPLACEME>PUSH_MNEMONIC</REPLACEME> -1597001976\n</data>
+      <data><REPLACEME>POP_MNEMONIC</REPLACEME> m6\n<REPLACEME>OUT_MNEMONIC</REPLACEME> m6\n</data>
+      <data><REPLACEME>MOV_MNEMONIC</REPLACEME> r0,-1326441562\n<REPLACEME>PUSH_MNEMONIC</REPLACEME> r0\n</data>
+      <data><REPLACEME>PUSH_MNEMONIC</REPLACEME> 1952728330\n</data>
+      <data><REPLACEME>PUSH_MNEMONIC</REPLACEME> -1924233456\n</data>
+      <data><REPLACEME>POP_MNEMONIC</REPLACEME> m7\n<REPLACEME>OUT_MNEMONIC</REPLACEME> m7\n</data>
+      <data><REPLACEME>POP_MNEMONIC</REPLACEME> r1\n<REPLACEME>OUT_MNEMONIC</REPLACEME> r1\n<REPLACEME>MOV_MNEMONIC</REPLACEME> m8,r1\n</data>
+      <data><REPLACEME>PUSH_MNEMONIC</REPLACEME> 1854699017\n</data>
+      <data><REPLACEME>MOV_MNEMONIC</REPLACEME> r3,1606655109\n<REPLACEME>PUSH_MNEMONIC</REPLACEME> r3\n</data>
+      <data><REPLACEME>MOV_MNEMONIC</REPLACEME> r3,1408340247\n<REPLACEME>PUSH_MNEMONIC</REPLACEME> r3\n</data>
+      <data><REPLACEME>POP_MNEMONIC</REPLACEME> m9\n<REPLACEME>OUT_MNEMONIC</REPLACEME> m9\n</data>
+      <data><REPLACEME>MOV_MNEMONIC</REPLACEME> r1,1023301295\n<REPLACEME>PUSH_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>MOV_MNEMONIC</REPLACEME> r0,1732918556\n<REPLACEME>PUSH_MNEMONIC</REPLACEME> r0\n</data>
+      <data><REPLACEME>POP_MNEMONIC</REPLACEME> r1\n<REPLACEME>OUT_MNEMONIC</REPLACEME> r1\n<REPLACEME>MOV_MNEMONIC</REPLACEME> m10,r1\n</data>
+      <data><REPLACEME>POP_MNEMONIC</REPLACEME> m11\n<REPLACEME>OUT_MNEMONIC</REPLACEME> m11\n</data>
+      <data><REPLACEME>POP_MNEMONIC</REPLACEME> m12\n<REPLACEME>OUT_MNEMONIC</REPLACEME> m12\n</data>
+      <data><REPLACEME>POP_MNEMONIC</REPLACEME> r3\n<REPLACEME>OUT_MNEMONIC</REPLACEME> r3\n<REPLACEME>MOV_MNEMONIC</REPLACEME> m13,r3\n</data>
+      <data><REPLACEME>PUSH_MNEMONIC</REPLACEME> -553279860\n</data>
+      <data><REPLACEME>MOV_MNEMONIC</REPLACEME> r3,-1866575004\n<REPLACEME>PUSH_MNEMONIC</REPLACEME> r3\n</data>
+      <data><REPLACEME>MOV_MNEMONIC</REPLACEME> r2,2103053460\n<REPLACEME>PUSH_MNEMONIC</REPLACEME> r2\n</data>
+      <data><REPLACEME>POP_MNEMONIC</REPLACEME> m14\n<REPLACEME>OUT_MNEMONIC</REPLACEME> m14\n</data>
+      <data><REPLACEME>POP_MNEMONIC</REPLACEME> r0\n<REPLACEME>OUT_MNEMONIC</REPLACEME> r0\n<REPLACEME>MOV_MNEMONIC</REPLACEME> m15,r0\n</data>
+      <data><REPLACEME>POP_MNEMONIC</REPLACEME> r2\n<REPLACEME>OUT_MNEMONIC</REPLACEME> r2\n<REPLACEME>MOV_MNEMONIC</REPLACEME> m16,r2\n</data>
+      <data><REPLACEME>PUSH_MNEMONIC</REPLACEME> 1957679437\n</data>
+      <data><REPLACEME>POP_MNEMONIC</REPLACEME> m17\n<REPLACEME>OUT_MNEMONIC</REPLACEME> m17\n</data>
+      <data><REPLACEME>MOV_MNEMONIC</REPLACEME> r1,1744273317\n<REPLACEME>PUSH_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>PUSH_MNEMONIC</REPLACEME> 1862565353\n</data>
+      <data><REPLACEME>PUSH_MNEMONIC</REPLACEME> -1000529093\n</data>
+      <data><REPLACEME>POP_MNEMONIC</REPLACEME> r0\n<REPLACEME>OUT_MNEMONIC</REPLACEME> r0\n<REPLACEME>MOV_MNEMONIC</REPLACEME> m18,r0\n</data>
+      <data><REPLACEME>PUSH_MNEMONIC</REPLACEME> 1607045633\n</data>
+      <data><REPLACEME>MOV_MNEMONIC</REPLACEME> r2,-1407069683\n<REPLACEME>PUSH_MNEMONIC</REPLACEME> r2\n</data>
+      <data><REPLACEME>POP_MNEMONIC</REPLACEME> r3\n<REPLACEME>OUT_MNEMONIC</REPLACEME> r3\n<REPLACEME>MOV_MNEMONIC</REPLACEME> m19,r3\n</data>
+      <data><REPLACEME>POP_MNEMONIC</REPLACEME> r2\n<REPLACEME>OUT_MNEMONIC</REPLACEME> r2\n<REPLACEME>MOV_MNEMONIC</REPLACEME> m20,r2\n</data>
+      <data><REPLACEME>POP_MNEMONIC</REPLACEME> m21\n<REPLACEME>OUT_MNEMONIC</REPLACEME> m21\n</data>
+      <data><REPLACEME>PUSH_MNEMONIC</REPLACEME> 1529858574\n</data>
+      <data><REPLACEME>POP_MNEMONIC</REPLACEME> r2\n<REPLACEME>OUT_MNEMONIC</REPLACEME> r2\n<REPLACEME>MOV_MNEMONIC</REPLACEME> m22,r2\n</data>
+      <data><REPLACEME>MOV_MNEMONIC</REPLACEME> r3,1577466081\n<REPLACEME>PUSH_MNEMONIC</REPLACEME> r3\n</data>
+      <data><REPLACEME>POP_MNEMONIC</REPLACEME> m23\n<REPLACEME>OUT_MNEMONIC</REPLACEME> m23\n</data>
+      <data><REPLACEME>POP_MNEMONIC</REPLACEME> m24\n<REPLACEME>OUT_MNEMONIC</REPLACEME> m24\n</data>
+      <data><REPLACEME>MOV_MNEMONIC</REPLACEME> r0,-515362125\n<REPLACEME>PUSH_MNEMONIC</REPLACEME> r0\n</data>
+      <data><REPLACEME>MOV_MNEMONIC</REPLACEME> r1,1418744578\n<REPLACEME>PUSH_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>POP_MNEMONIC</REPLACEME> m25\n<REPLACEME>OUT_MNEMONIC</REPLACEME> m25\n</data>
+      <data><REPLACEME>POP_MNEMONIC</REPLACEME> r0\n<REPLACEME>OUT_MNEMONIC</REPLACEME> r0\n<REPLACEME>MOV_MNEMONIC</REPLACEME> m26,r0\n</data>
+      <data><REPLACEME>POP_MNEMONIC</REPLACEME> r0\n<REPLACEME>OUT_MNEMONIC</REPLACEME> r0\n<REPLACEME>MOV_MNEMONIC</REPLACEME> m27,r0\n</data>
+      <data><REPLACEME>POP_MNEMONIC</REPLACEME> m28\n<REPLACEME>OUT_MNEMONIC</REPLACEME> m28\n</data>
+      <data><REPLACEME>POP_MNEMONIC</REPLACEME> r0\n<REPLACEME>OUT_MNEMONIC</REPLACEME> r0\n<REPLACEME>MOV_MNEMONIC</REPLACEME> m29,r0\n</data>
+      <data><REPLACEME>POP_MNEMONIC</REPLACEME> r0\n<REPLACEME>OUT_MNEMONIC</REPLACEME> r0\n<REPLACEME>MOV_MNEMONIC</REPLACEME> m30,r0\n</data>
+      <data><REPLACEME>MOV_MNEMONIC</REPLACEME> r1,-1959789152\n</data>
+      <data><REPLACEME>MOV_MNEMONIC</REPLACEME> r3,m0\n<REPLACEME>SUB_MNEMONIC</REPLACEME> r1,r3\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> -283160870\n</data>
+      <data><REPLACEME>SHL_MNEMONIC</REPLACEME> r1,2\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> -1132643480\n</data>
+      <data><REPLACEME>SWP_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> 1748729276\n</data>
+      <data><REPLACEME>SHR_MNEMONIC</REPLACEME> r1,5\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> 54647789\n</data>
+      <data><REPLACEME>SWP_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> -304398077\n</data>
+      <data><REPLACEME>MOV_MNEMONIC</REPLACEME> r3,m1\n<REPLACEME>MUL_MNEMONIC</REPLACEME> r1,r3\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> 72572993\n</data>
+      <data><REPLACEME>MOD_MNEMONIC</REPLACEME> r1,m2\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> 72572993\n</data>
+      <data><REPLACEME>MOD_MNEMONIC</REPLACEME> r1,m3\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> 72572993\n</data>
+      <data><REPLACEME>SHR_MNEMONIC</REPLACEME> r1,5\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> 2267906\n</data>
+      <data><REPLACEME>SUB_MNEMONIC</REPLACEME> r1,m4\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> 1652325056\n</data>
+      <data><REPLACEME>MUL_MNEMONIC</REPLACEME> r1,m5\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> 1185732160\n</data>
+      <data><REPLACEME>MOV_MNEMONIC</REPLACEME> r0,m6\n<REPLACEME>DIV_MNEMONIC</REPLACEME> r1,r0\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> 0\n</data>
+      <data><REPLACEME>SHR_MNEMONIC</REPLACEME> r1,1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> 0\n</data>
+      <data><REPLACEME>MOD_MNEMONIC</REPLACEME> r1,m7\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> 0\n</data>
+      <data><REPLACEME>MOV_MNEMONIC</REPLACEME> r3,m8\n<REPLACEME>MOD_MNEMONIC</REPLACEME> r1,r3\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> 0\n</data>
+      <data><REPLACEME>SUB_MNEMONIC</REPLACEME> r1,m9\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> -1408340247\n</data>
+      <data><REPLACEME>MOD_MNEMONIC</REPLACEME> r1,m10\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> -1408340247\n</data>
+      <data><REPLACEME>SHL_MNEMONIC</REPLACEME> r1,6\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> 60537408\n</data>
+      <data><REPLACEME>MUL_MNEMONIC</REPLACEME> r1,m11\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> -1819946560\n</data>
+      <data><REPLACEME>MOV_MNEMONIC</REPLACEME> r3,m12\n<REPLACEME>DIV_MNEMONIC</REPLACEME> r1,r3\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> -1\n</data>
+      <data><REPLACEME>SHR_MNEMONIC</REPLACEME> r1,3\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> -1\n</data>
+      <data><REPLACEME>MOV_MNEMONIC</REPLACEME> r0,m13\n<REPLACEME>MUL_MNEMONIC</REPLACEME> r1,r0\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> -1854699017\n</data>
+      <data><REPLACEME>SHR_MNEMONIC</REPLACEME> r1,6\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> -28979673\n</data>
+      <data><REPLACEME>SWP_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> 667829758\n</data>
+      <data><REPLACEME>MOV_MNEMONIC</REPLACEME> r0,m14\n<REPLACEME>MOD_MNEMONIC</REPLACEME> r1,r0\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> 667829758\n</data>
+      <data><REPLACEME>SHR_MNEMONIC</REPLACEME> r1,0\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> 667829758\n</data>
+      <data><REPLACEME>SHL_MNEMONIC</REPLACEME> r1,7\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> -417136896\n</data>
+      <data><REPLACEME>MOV_MNEMONIC</REPLACEME> r2,m15\n<REPLACEME>SUB_MNEMONIC</REPLACEME> r1,r2\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> 1449438108\n</data>
+      <data><REPLACEME>SHL_MNEMONIC</REPLACEME> r1,0\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> 1449438108\n</data>
+      <data><REPLACEME>SUB_MNEMONIC</REPLACEME> r1,m16\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> 2002717968\n</data>
+      <data><REPLACEME>SHL_MNEMONIC</REPLACEME> r1,4\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> 1978716416\n</data>
+      <data><REPLACEME>SHR_MNEMONIC</REPLACEME> r1,7\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> 15458722\n</data>
+      <data><REPLACEME>SHR_MNEMONIC</REPLACEME> r1,6\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> 241542\n</data>
+      <data><REPLACEME>MOV_MNEMONIC</REPLACEME> r0,m17\n<REPLACEME>DIV_MNEMONIC</REPLACEME> r1,r0\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> 0\n</data>
+      <data><REPLACEME>MOV_MNEMONIC</REPLACEME> r2,m18\n<REPLACEME>SUB_MNEMONIC</REPLACEME> r1,r2\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> 1000529093\n</data>
+      <data><REPLACEME>MOV_MNEMONIC</REPLACEME> r2,m19\n<REPLACEME>MUL_MNEMONIC</REPLACEME> r1,r2\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> 1908658177\n</data>
+      <data><REPLACEME>MOV_MNEMONIC</REPLACEME> r3,m20\n<REPLACEME>MOD_MNEMONIC</REPLACEME> r1,r3\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> 301612544\n</data>
+      <data><REPLACEME>SWP_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> 4127249\n</data>
+      <data><REPLACEME>MOV_MNEMONIC</REPLACEME> r2,m21\n<REPLACEME>SUB_MNEMONIC</REPLACEME> r1,r2\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> -1858438104\n</data>
+      <data><REPLACEME>SHR_MNEMONIC</REPLACEME> r1,1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> -929219052\n</data>
+      <data><REPLACEME>SHL_MNEMONIC</REPLACEME> r1,7\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> 1319045632\n</data>
+      <data><REPLACEME>SHR_MNEMONIC</REPLACEME> r1,4\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> 82440352\n</data>
+      <data><REPLACEME>SHR_MNEMONIC</REPLACEME> r1,5\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> 2576261\n</data>
+      <data><REPLACEME>SWP_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> -2058410240\n</data>
+      <data><REPLACEME>MOV_MNEMONIC</REPLACEME> r3,m22\n<REPLACEME>ADD_MNEMONIC</REPLACEME> r1,r3\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> -528551666\n</data>
+      <data><REPLACEME>DIV_MNEMONIC</REPLACEME> r1,m23\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> 0\n</data>
+      <data><REPLACEME>MOV_MNEMONIC</REPLACEME> r3,m24\n<REPLACEME>ADD_MNEMONIC</REPLACEME> r1,r3\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> 1744273317\n</data>
+      <data><REPLACEME>MOV_MNEMONIC</REPLACEME> r2,m25\n<REPLACEME>SUB_MNEMONIC</REPLACEME> r1,r2\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> 325528739\n</data>
+      <data><REPLACEME>MOV_MNEMONIC</REPLACEME> r0,m26\n<REPLACEME>MOD_MNEMONIC</REPLACEME> r1,r0\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> 325528739\n</data>
+      <data><REPLACEME>SHL_MNEMONIC</REPLACEME> r1,4\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> 913492528\n</data>
+      <data><REPLACEME>SHL_MNEMONIC</REPLACEME> r1,0\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> 913492528\n</data>
+      <data><REPLACEME>MOV_MNEMONIC</REPLACEME> r2,m27\n<REPLACEME>DIV_MNEMONIC</REPLACEME> r1,r2\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> 0\n</data>
+      <data><REPLACEME>DIV_MNEMONIC</REPLACEME> r1,m28\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> 0\n</data>
+      <data><REPLACEME>MOD_MNEMONIC</REPLACEME> r1,m29\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> 0\n</data>
+      <data><REPLACEME>SHL_MNEMONIC</REPLACEME> r1,2\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> 0\n</data>
+      <data><REPLACEME>MUL_MNEMONIC</REPLACEME> r1,m30\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> r1\n</data>
+      <data><REPLACEME>OUT_MNEMONIC</REPLACEME> 0\n</data>
+      <data>END\n</data>
+   </write>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x9c10aec6\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x48fbbc6b\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0xec441726\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x87af390e\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x9da62042\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x82f21acb\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0xa0cfaf08\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x8d4e8710\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x7464450a\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x53f19117\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x674a3d1c\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x3cfe56af\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x5fc39c85\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x6e8c7609\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x7d5a0c94\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x90be5364\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0xdf059e8c\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x74afd14d\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0xc45d233b\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0xac21d20d\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x5fc99201\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x6f047de9\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x5b2fca0e\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x5e0638e1\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x67f77fa5\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x54905302\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0xe14832b3\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0xb0f01ba6\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0xc9c24e9b\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x7e2706c2\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0xc188f564\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0xef1f4eda\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0xef1f4eda\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0xbc7d3b68\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0xbc7d3b68\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x683b7dbc\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x683b7dbc\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x0341dbed\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x0341dbed\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0xeddb4103\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0xeddb4103\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x04536041\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x04536041\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x04536041\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x04536041\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x04536041\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x04536041\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x00229b02\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x00229b02\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x627c7ac0\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x627c7ac0\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x46acd640\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x46acd640\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x00000000\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x00000000\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x00000000\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x00000000\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x00000000\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x00000000\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x00000000\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x00000000\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0xac0e6ee9\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0xac0e6ee9\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0xac0e6ee9\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0xac0e6ee9\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x039bba40\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x039bba40\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x9385d1c0\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x9385d1c0\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0xffffffff\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0xffffffff\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0xffffffff\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0xffffffff\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x917389f7\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x917389f7\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0xfe45ce27\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0xfe45ce27\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x27ce45fe\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x27ce45fe\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x27ce45fe\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x27ce45fe\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x27ce45fe\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x27ce45fe\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0xe722ff00\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0xe722ff00\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x5664ab9c\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x5664ab9c\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x5664ab9c\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x5664ab9c\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x775f0d10\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x775f0d10\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x75f0d100\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x75f0d100\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x00ebe1a2\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x00ebe1a2\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x0003af86\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x0003af86\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x00000000\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x00000000\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x3ba2dcc5\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x3ba2dcc5\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x71c3d001\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x71c3d001\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x11fa3e00\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x11fa3e00\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x003efa11\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x003efa11\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x913a7c28\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x913a7c28\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0xc89d3e14\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0xc89d3e14\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x4e9f0a00\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x4e9f0a00\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x04e9f0a0\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x04e9f0a0\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x00274f85\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x00274f85\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x854f2700\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x854f2700\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0xe07ef10e\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0xe07ef10e\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x00000000\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x00000000\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x67f77fa5\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x67f77fa5\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x13672ca3\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x13672ca3\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x13672ca3\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x13672ca3\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x3672ca30\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x3672ca30\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x3672ca30\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x3672ca30\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x00000000\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x00000000\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x00000000\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x00000000\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x00000000\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x00000000\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x00000000\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x00000000\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x00000000\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>OUT: 0x00000000\n</data></match></read>
+   <read echo="ascii"><delim>\n</delim><match><data>COMPLETE\n</data></match></read>
+</replay>
+</pov>

@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE pov SYSTEM "/usr/share/cgc-docs/replay.dtd">
+<pov>
+<cbid>service</cbid>
+<replay>
+    <write><data format="hex"><REPLACEME>OVERFLOW_SIZE_TOKEN_1</REPLACEME><REPLACEME>OVERFLOW_SIZE_TOKEN_2</REPLACEME>0000</data></write>
+    <write><data><REPLACEME>OVERFLOW_STR</REPLACEME></data></write>
+    <read><delim>\n</delim><match><pcre>(41)+\n</pcre></match></read>
+</replay>
+</pov>
+
